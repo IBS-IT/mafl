@@ -141,6 +141,7 @@ Supported Languages:
 * 🇸🇦 **Arabic** - `ar` (by [@mohmadhabib](https://github.com/mohmadhabib))
 * 🇵🇱 **Polish** - `pl` (by [@UberDudePL](https://github.com/UberDudePL))
 * 🇫🇷 **France** - `fr` (by [@maxim31cote](https://github.com/maxim31cote))
+* 🇩🇪 **Deutsch** - `de`
 
 If you haven't found your language, it can easily be added! Use the instructions in the section [contributing](https://mafl.hywax.space/community/contributing.html) on docs.
 

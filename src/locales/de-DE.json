@@ -1,0 +1,17 @@
+{
+  "service": {
+
+  },
+
+  "error": {
+    "title": "Fehler",
+    "page404": "Die Seite wurde nicht gefunden!",
+    "description": "Hoppla! Ein nicht erwarter Fehler ist aufgetaucht.",
+    "action": "Dokumentation öffnen."
+  },
+
+  "update": {
+    "message": "Eine neue Version ist verfügbar.",
+    "visit": "Auf github ansehen →"
+  }
+}
